@@ -2,8 +2,3 @@
 由Max冰焰使用Unity引擎开发
 
 Unity版本为2021.3.45f1c1
-
-# MaxIceFlame's Dancing Line Fanmade Template
-Developed with Unity Engine by MaxIceFlame
-
-Using Unity 2021.3.45f1c1
